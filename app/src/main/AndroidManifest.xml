@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.pirates.sampah">
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/se"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/se"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity android:name=".Slide_Screen1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".ListView">
+        </activity>
+        <activity android:name=".JenisSampah">
+        </activity>
+        <activity android:name=".organik">
+        </activity>
+        <activity android:name=".anorganik">
+        </activity>
+        <activity android:name=".beracun">
+        </activity>
+        <activity android:name=".Pemanfaatan">
+        </activity>
+        <activity android:name=".PemanfaatanOrganik">
+        </activity>
+        <activity android:name=".PemanfaatanAnorganik">
+        </activity>
+        <activity android:name=".BahayaSampah">
+        </activity>
+        <activity android:name=".BahayaOrganik">
+        </activity>
+        <activity android:name=".BahayaAnorganik">
+        </activity>
+        <activity android:name=".PenanggulanganOrganik">
+        </activity>
+        <activity android:name=".PenangulanganAnorganik">
+        </activity>
+        <activity android:name=".PenangulanganSampah">
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">sampah</string>
+    <string name="title_activity_welcome">SaveWorld</string>
+    <string name="next">GO</string>
+    <string name="slide_1_title">Selamatkan Dunia dari buang sampah Sembarangan</string>
+    <string name="slide_1_desc">Mari kelola SAMPAH dan belajar tentang SAMPAH.</string>
+
+    <string name="app_name2">Jenis Sampah</string>
+    <string-array name="countries_arry">
+        <item>Sampah Organik</item>
+        <item>Sampah Anorganik</item>
+    </string-array>
+
+    <string name="organik">Sampah ini terdiri dari bahan-bahan yang bisa terurai secara alamiah/biologis. Contoh dari
+        jenis sampah ini, yaitu sisa makanan dan daun. Sampah organik juga biasa disebut sebagai sampah basah.
+        Biasanya sampah ini berasal dari rumah tangga yang dapat diproses kembali menjadi pupuk kompos.
+    </string>
+
+    <string name="anorganik">Sampah ini terdiri dari bahan-bahan yang sulit terurai secara biologis dan proses
+        penghancurannya membutuhkan penanganan di tempat khusus. Contoh dari sampah anorganik, misalnya plastik, kaleng,
+        dan
+        styrofoam. Sampah jenis ini juga biasa disebut sampah kering. Sampah ini dapat didaur ulang menjadi kerajinan
+        tangan seperti hiasan bunga dari bungkus kopi, tas dari bungkus detergen dan lain-lain karena tidak dapat
+        terurai.
+    </string>
+
+    <string name="bahaya">Sampah jenis ini merupakan limbah dari bahan-bahan berbahaya dan beracun, misalnya limbah
+        rumah sakit, limbah pabrik, dan lain-lain. Nah ini
+        nih yang sangat berbahaya dibadingkan dengan jenis sampah rumah tangga berjenis organik dan anorganik.
+    </string>
+
+    <string name="panorganik">Sebagai kerajinan tangan
+       \n Sampah-sampah plastik dapat kita manfaatkan untuk menjadi suatu kerajinan seperti tas dari sampah plastik
+        (plastik bekas kopi, detergen, mie dan lain sebagainya).
+       \n Daur ulang Sendiri
+        Sampah yang kita punya dapat kita manfaatkan daur ulang sendiri contoh : Membuat kaleng bekas menjadi tempat
+        pensil.
+       \n Caranya, kaleng bekas yang kotor kemudian dibersihkan dari debu dan kotoran lainnya. Kemudian potong salah satu
+        tutupnya.
+       \n Lalu, siapkan kain flanel ataupun kain perca untuk menutupi bagian kaleng. Setelah selesai, beri hiasan seperti
+        pita ataupun dibuat gambar wajah hewan.
+        Jadilah tempat pensil dari kaleng yang sederhana, dll.
+
+    </string>
+
+    <string name="porganik">
+       \n Sebagai bahan bakar alternatif
+
+       \n Sampah organic bisa sebagai bahan bakarmelalui Pembusukan sampah anorganik, dapat menghasilkan gas yang bernama
+        gas metana yang dapat digunakan sebagai
+        bahan bakar alternatif untuk kebutuhan rumah tangga atau industri kecil.
+
+        \n Sebagai sumber listrik.
+        Secara tidak langsung sampah anorganik dapat dijadikan sumber listrik alternatif dengan cara merubah sampah agar
+        menghasilkan gas metana,
+        dimana gas ini dapat dijadikan bahan bakar untuk menjalankan pembangkit listrik.
+
+    </string>
+
+    <string name="panorganik3">
+        Sebagai wadah alternatif
+        Sampah-sampah yang berbentuk wadah seperti kaleng bekas minuman, botol beling, kaleng biskuit dan sejenisnya
+        bisa dialih fungsikan menjadi wadah alternatif.
+        Agar lebih menarik, Anda bisa mengukir, melukis atau memberi hiasan pada wadah tersebut.
+        Contoh sederhananya kaleng bekas minuman atau kaleng sarden. Bisa Anda sulap menjadi wadah tempat penyimpanan
+        pensil yang unik.
+        Bisa dengan cara memberi ukiran, atau menyampulnya dengan kertas kado.
+    </string>
+    <string name="panuorganik4">Dampak terhadap Kesehatan
+        \n - Potensi bahaya kesehatan yang dapat ditimbulkan adalah sebagai berikut:
+        Penyakit diare, kolera, tifus menyebar dengan cepat karena virus yang berasal dari sampah dengan pengelolaan
+        tidak tepat dapat bercampur air minum. Penyakit demam berdarah (haemorhagic fever) dapat juga meningkat dengan
+        cepat di daerah yang pengelolaan sampahnya kurang memadai
+
+        \n - Penyakit jamur dapat juga menyebar (misalnya jamur kulit).
+
+        Penyakit yang dapat menyebar melalui rantai makanan. Salah satu contohnya adalah suatu penyakit yang
+        dijangkitkan
+        oleh cacing pita (taenia). Cacing ini sebelumnya masuk ke dalam pencernakan binatang ternak melalui makanannya
+        yang berupa sisa makanan/sampah.
+
+        \n - Sampah beracun: Telah dilaporkan bahwa di Jepang kira-kira 40.000 orang meninggal akibat mengkonsumsi ikan yang
+        telah terkontaminasi oleh raksa (Hg). Raksa ini berasal dari sampah yang dibuang ke laut oleh pabrik yang
+        memproduksi baterai dan akumulator.
+
+       \n - Dampak terhadap Lingkungan \n
+        Cairan rembesan sampah yang masuk ke dalam drainase atau sungai akan mencemari air. Berbagai organisme termasuk
+        ikan dapat mati sehingga beberapa spesies akan lenyap, hal ini mengakibatkan berubahnya ekosistem perairan biologis.
+        Penguraian sampah yang dibuang ke dalam air akan menghasilkan asam organik dan gas-cair organik, seperti metana.
+        Selain berbau kurang sedap, gas ini dalam konsentrasi tinggi dapat meledak.
+
+    </string>
+    <string name="bahayao">
+       \n   Gangguan Kesehatan
+        Timbulan sampah dapat menjadi tempat pembiakan lalat yang dapat mendorong enularan infeksi;
+        Timbulan sampah dapat menimbulkan penyakit yang terkait dengan tikus
+
+
+        \n  Menurunnya kualitas lingkungan
+
+       \n   Menurunnya estetika lingkungan
+        Timbulan sampah yang bau, kotor dan berserakan akan menjadikan lingkungan tidak indah untuk dipandang mata.
+
+       \n  Terhambatnya pembangunan negara
+           Dengan menurunnya kualitas dan estetika lingkungan, mengakibatkan pengunjung atau wisatawan enggan untuk
+           mengunjungi daerah wisata tersebut karena merasa tidak nyaman, dan daerah wisata tersebut menjadi tidak menarik
+           untuk dikunjungi. Akibatnya jumlah kunjungan wisatawan menurun, yang berarti devisa negara juga menurun.
+    </string>
+    <string name="penanggulangan">\n Pembuatan Pupuk Kompos (Pengomposan atau Composting)
+        \n - Pupuk kompos dibuat dari limbah organik dengan prinsip penguraian bahan-bahan organik menjadi bahan anorganik
+        oleh mikroorganisme melalui fermentasi. Bahannya berupa dedaunan atau sampah rumah tangga yang lain, serta
+        kotoran ternak (sapi, kambing, ayam). Mikroorganisme yang berperan dalam pembuatan kompos dikenal sebagai
+        effective microorganism (EM). EM terdiri atas mikroorganisme aerob dan anaerob. Kedua kelompok jasad renik
+        tersebut bekerja sama menguraikan sampah-sampah organik. Hasil fermentasinya dapat menciptakan kondisi yang
+        mendukung kehadiran jamur pemangsa nematoda (cacing parasit pada akar tanaman).
+        Kompos digunakan dalam sistem pertanian, bersifat ramah lingkungan, dan hasil panen dari tanaman pertanian yang
+        menggunakannya memiliki harga jual yang lebih mahal. Dengan memanfaatkan pupuk organik, di samping menanggulangi
+        limbah, berarti juga menerapkan gaya hidup sehat.
+
+        \n - Pembuatan Biogas (Gas Bio)
+        Biogas merupakan gas-gas yang dapat dimanfaatkan sebagai bahan bakar. Gas ini dihasilkan dari proses pembusukan
+        atau fermentasi sampah organik yang terjadi secara anaerobik. Artinya, proses tersebut berlangsung dalam keadaan
+        tertutup (tanpa oksigen), dilakukan oleh bakteri Metalothrypus methanica. Bahan bakunya adalah kotoran hewan,
+        sisa-sisa tanaman, atau campuran keduanya. Prosesnya adalah dengan mencampurkan sampah organik dan air,
+        kemudian dicampur dengan bakteri M. methanica, dan disimpan di dalam tempat yang kedap udara lantas dibiarkan
+        selama dua minggu.
+
+        \n - Daur Ulang Kertas
+        Daur ulang kertas dari sampah rumah tangga, kegiatan administrasi, kertas pembungkus, maupun media cetak dapat
+        menghasilkan kertas yang dapat dimanfaatkan sebagai kertas buram, kertas pembungkus kado, atau aneka kerajinan
+        yang lain.
+    </string>
+
+    <string name="penanggulangan2"> \n Daur Ulang Limbah Anorganik
+       \n Limbah anorganik yang dapat didaur ulang yaitu sampah plastik, logam, kaca, plastik, dan kaleng.
+        Limbah tersebut terlebih dahulu diolah melalui sanitary landfill, incineration atau pembakaran,
+        dan pulverisation atau penghancuran. Sanitary landfill yaitu suatu metode pengolahan sampah terkontrol dengan
+        sistem sanitasi yang baik. Sedangkan pada incineration sampah dibakar di dalam alat yang disebut insinerator.
+        Hasil pembakarannya berupa gas dan residu pembakaran. Sementara itu, pada pulverisation, penghancuran sampah
+        dilakukan di dalam mobil pengumpul sampah yang telah dilengkapi dengan alat pelumat sampah. Sampah-sampah
+        tersebut langsung dihancurkan menjadi potongan-potongan kecil yang dapat dimanfatkan untuk menimbun tanah yang
+        letaknya rendah.</string>
+
+</resources>
